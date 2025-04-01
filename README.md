@@ -1,7 +1,7 @@
 # Signal Classifier Using Neural Network
 
 ## Overview
-This is a simple project that is implemented for the second assignment of "Text Mining" course.
+This is a simple project implemented for the second "Text Mining" course assignment.
 This project implements a neural network to classify space signals into three categories: **Natural**, **Artificial**, and **Unknown**. The goal is to identify potential signs of intelligence in space missions. Signals are represented by three features: frequency, amplitude, and wavelength.
 
 ## Project Structure
@@ -28,8 +28,8 @@ signal_classifier_project/
 ## Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/signal_classifier_project.git
-cd signal_classifier_project
+git clone https://github.com/your-username/signal_classifier_project.git](https://github.com/Aminam78/signal_classifier_project_optimum.git
+cd signal_classifier_project_optimum
 
 ```
 2. Install the required dependencies:
