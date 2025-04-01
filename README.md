@@ -28,7 +28,7 @@ signal_classifier_project/
 ## Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/signal_classifier_project.git
+git clone https://github.com/Aminam78/signal_classifier_project_optimum.git
 cd signal_classifier_project_optimum
 
 ```
